@@ -15,7 +15,7 @@ This repository contains engineering materials of a self-driven vehicle's model 
 
 ## Introduction
 
-_Hello, Here Luis from Team T.W.L., and together with my colleagues we will expand a little in the operation and elements present in the robotic solution for this 2023 season.  
+_Hello, Here Luis from Team T.W.L., and together with my colleagues we will expand a little in the operation and elements present in the robotic solution for this 2023 season._
 
 -------------------------------------------------------------------------------------------------------------------------------------  
 
