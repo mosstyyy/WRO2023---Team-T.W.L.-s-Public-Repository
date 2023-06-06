@@ -21,7 +21,7 @@ _Hello, Here Luis from Team T.W.L., and together with my colleagues we will expa
 
   
 
-_The designed robotic solution model consists of a robot car that uses prefabricated elements and is based on the ESP32 SoC chip. This chip is a microcontroller that integrates Wi-Fi and Bluetooth and allows programming the robot with the Arduino IDE environment. The ESP32 chip has 36 pins that can be used to connect the different sensors and actuators to the robot. In addition, the ESP32 chip has a dual-core processor that can run two tasks simultaneously, which increases the performance and efficiency of the robot._
+_The designed robotic solution model consists of a robot car that uses pre-fabricated elements and is based on the ESP32 SoC chip. This chip is a microcontroller that integrates Wi-Fi and Bluetooth and allows programming the robot with the Arduino IDE environment. The ESP32 chip has 36 pins that can be used to connect the different sensors and actuators to the robot. In addition, the ESP32 chip has a dual-core processor that can run two tasks simultaneously, which increases the performance and efficiency of the robot._
 
 _The robot car has the following main elements:_
 
