@@ -66,7 +66,7 @@ _The robot car has the following main elements:_
 
   
 
-   -   _LEDs: The robot has integrated on its motherboard 12 LEDs that it can control with the ESP32 chip. The LEDs can display different lighting effects that give the robot a more attractive and fun appearance. For example, the robot can turn on the LEDs in a wide variety of colors following certain configurations, such as:_  
+   -   _LEDs: The robot has integrated on its shield-board 12 LEDs that it can control with the ESP32 chip. The LEDs can display different lighting effects that give the robot a more attractive and fun appearance. For example, the robot can turn on the LEDs in a wide variety of colors following certain configurations, such as:_  
 
   
   - _Static light: The robot turns on the LEDs in a single color and keeps them that way until the configuration changes._  
