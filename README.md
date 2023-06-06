@@ -34,7 +34,7 @@ _The robot car has the following main elements:_
 
    
 
-   -   _Buzzer: The robot has a Buzzer integrated into the ESP32 base plate. The Buzzer is used to emit sounds that indicate the state of the robot, such as when it connects to the computer by USB or when it finishes loading the program from the Arduino IDE. It is also capable of emitting very basic melodies._
+   -   _Buzzer: The robot has a Buzzer integrated into the base plate. The Buzzer is used to emit sounds that indicate the state of the robot, such as when it connects to the computer by USB or when it finishes loading the program from the Arduino IDE. It is also capable of emitting very basic melodies._
 
   
 
@@ -66,7 +66,7 @@ _The robot car has the following main elements:_
 
   
 
-   -   _LEDs: The robot has integrated on its shield-board 12 LEDs that it can control with the ESP32 chip. The LEDs can display different lighting effects that give the robot a more attractive and fun appearance. For example, the robot can turn on the LEDs in a wide variety of colors following certain configurations, such as:_  
+   -   _LEDs: The robot has integrated on its base plate 12 LEDs that it can control with the ESP32 chip. The LEDs can display different lighting effects that give the robot a more attractive and fun appearance. For example, the robot can turn on the LEDs in a wide variety of colors following certain configurations, such as:_  
 
   
   - _Static light: The robot turns on the LEDs in a single color and keeps them that way until the configuration changes._  
